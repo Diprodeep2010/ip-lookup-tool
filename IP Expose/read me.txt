@@ -1,0 +1,5 @@
+Ip Expose works if Python 2.7 is installed in your computer and 
+the environment path is set.
+You need to keep the IP Expose directory within a drive
+in which read and write protections are not applicable or invoked by the user.
+Otherwise IP Expose will not work.
